@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Juhwan Seo"
-  avatar           : "profile.jpg"
-  bio              : "Graduate Student at Cornell University"
+  avatar           : "profile.png"
+  bio              : "PhD Student at Cornell University"
   location         : "Ithaca, NY"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
