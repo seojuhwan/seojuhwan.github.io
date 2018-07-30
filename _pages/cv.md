@@ -52,6 +52,6 @@ Teaching
   
 Service and leadership
 ======
-* 2016-present Co-Founder and Executive Director, Harvard Ethnic Studies Coalition. Cambridge, MA.
-* 2015-2017	Member, Asian American Studies Working Group, Committee on Ethnicity, Migration, Rights, Harvard University. Cambridge, MA.
+* 2016-present Co-Founder and Executive Director, Harvard Ethnic Studies Coalition
+* 2015-2017	Member, Asian American Studies Working Group, Committee on Ethnicity, Migration, Rights, Harvard University
 
