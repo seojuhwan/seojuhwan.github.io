@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Juhwan Seo"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Graduate Student at Cornell University"
   location         : "Ithaca, NY"
   employer         :
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/seojuhwan/"
+  linkedin         : "seojuhwan"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
