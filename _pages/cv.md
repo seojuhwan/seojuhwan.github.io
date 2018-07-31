@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Available in PDF here.
+<u><a href="{{juhwan-seo-cv}}">Available in PDF here.</a></u>
 
 Education
 ======
@@ -41,4 +41,3 @@ Service and leadership
 ======
 * 2016-present Co-Founder and Executive Director, Harvard Ethnic Studies Coalition
 * 2015-2017	Member, Asian American Studies Working Group, Committee on Ethnicity, Migration, Rights, Harvard University
-
