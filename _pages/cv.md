@@ -16,8 +16,9 @@ Education
 * Ph.D in Sociology, Cornell University, 2024 (expected)
 * B.A. in Sociology & Studies of Women, Gender, and Sexuality, Harvard University, 2017
   * Joint Major: Sociology and Studies of Women, Gender, and Sexuality
-  * Minor: Ethnicity, Migration, and Rights
+  * Minor: Ethnicity, Migration, Rights
   * Senior Thesis: “How Stigma Impacts Mental Health: The Minority Stress Model and	Unwed Mothers in South Korea” Advised by Mary C. Brinton
+  * <i>Cum Laude</i>, Highest Honors in Sociology and Studies of Women, Gender, and Sexuality
 
 Work experience
 ======
