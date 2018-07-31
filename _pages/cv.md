@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a href="{{juhwan-seo-cv}}">Full CV available in PDF here.</a></u>
+[Full CV available in PDF here](juhwan-seo-cv).
 
 Education
 ======
