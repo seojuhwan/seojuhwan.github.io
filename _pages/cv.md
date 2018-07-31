@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a href="{{juhwan-seo-cv}}">Available in PDF here.</a></u>
+<u><a href="{{juhwan-seo-cv}}">Full CV available in PDF here.</a></u>
 
 Education
 ======
@@ -18,7 +18,7 @@ Education
   * Joint Major: Sociology and Studies of Women, Gender, and Sexuality
   * Minor: Ethnicity, Migration, Rights
   * Senior Thesis: “How Stigma Impacts Mental Health: The Minority Stress Model and	Unwed Mothers in South Korea” Advised by Mary C. Brinton
-  * <i>Cum Laude</i>, Highest Honors in Sociology and Studies of Women, Gender, and Sexuality
+  * _Cum Laude_, Highest Honors in Sociology and Studies of Women, Gender, and Sexuality
 
 Work experience
 ======
