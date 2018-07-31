@@ -9,10 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Available in PDF here.
+
 Education
 ======
-* B.A. in Sociology & Studies of Women, Gender, and Sexuality, Harvard University, 2017
 * Ph.D in Sociology, Cornell University, 2024 (expected)
+* B.A. in Sociology & Studies of Women, Gender, and Sexuality, Harvard University, 2017
+  * Joint Major: Sociology and Studies of Women, Gender, and Sexuality
+  * Minor: Ethnicity, Migration, and Rights
+  * Senior Thesis: “How Stigma Impacts Mental Health: The Minority Stress Model and	Unwed Mothers in South Korea” Advised by Mary C. Brinton
 
 Work experience
 ======
@@ -31,24 +36,6 @@ Work experience
 * 2014 Research Assistant
   * Department of Sociology, Harvard University
   * Supervisor: Matthew Desmond
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
