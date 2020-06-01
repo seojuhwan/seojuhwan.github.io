@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Sociology at Cornell University. I study inequities experienced by Asian Americans, Arab Americans, and mixed race Americans.
+I am a PhD student in Sociology at Cornell University. I study race, immigration, gender, sexuality, and family.
